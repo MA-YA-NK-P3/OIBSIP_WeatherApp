@@ -4,7 +4,7 @@ import requests
 from PIL import Image, ImageTk
 
 # ============ CONFIG =============
-API_KEY = "7488182367594ab3c503afbf228a61b2"  # Replace this with your actual API key
+API_KEY = "API_KEY"  # Replace this with your actual API key
 ICON_PATHS = {
     "Clouds": "clouds.png",
     "Rain": "rain.png",
