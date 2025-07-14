@@ -11,7 +11,7 @@ ICON_PATHS = {
     "Drizzle": "drizzle.png",
     "Mist": "mist.png",
     "Snow": "snow.png",
-    "Clear": "sun.png",       # You must add this manually
+    "Clear": "sun.png",   
     "Wind": "wind.png"
 }
 DEFAULT_ICON = "clouds.png"
